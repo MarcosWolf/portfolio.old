@@ -12,7 +12,7 @@ const Subtitle = styled.h2`
         color: var(--primary-text-color);
         max-width: initial !important;
         font-size: 3rem;
-        text-tranform: capitalize;
+        text-transform: capitalize;
     }
 `;
 

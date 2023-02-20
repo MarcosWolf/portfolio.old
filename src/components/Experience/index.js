@@ -1,5 +1,5 @@
 import ExperienceSubtitle from './ExperienceSubtitle';
-import ExperienceText from './ExperienceText';
+import ExperienceDescription from './ExperienceDescription';
 import ExperienceTimeline from './ExperienceTimeline';
 
 import styled from 'styled-components';
@@ -29,7 +29,7 @@ function Experience() {
             <ExperienceMain>
                 <ExperienceSubtitle />
                     <div>
-                        <ExperienceText />
+                        <ExperienceDescription />
                         <ExperienceTimeline />              
                     </div>
             </ExperienceMain>

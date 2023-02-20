@@ -37,7 +37,6 @@ function HeaderMenu() {
                 <li><LinkMenu href='#contato'>Contato</LinkMenu></li>
                 <li><LinkMenu href='https://github.com/MarcosWolf/' target='_blank'> <img src={iconGithub}></img> </LinkMenu></li>
                 <li><LinkMenu href='https://linkedin.com/in/marcoswolf/' target='_blank'> <img src={iconLinkedin}></img> </LinkMenu></li>
-  
             </NavMenu>
         </nav>
     )
