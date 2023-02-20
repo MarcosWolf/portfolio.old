@@ -42,6 +42,11 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
   }
 
+  img {
+    max-width: 100%;
+    display: block;
+  }
+
   ul {
     margin: 0;
     padding: 0;
