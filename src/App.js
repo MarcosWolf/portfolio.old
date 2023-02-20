@@ -1,8 +1,9 @@
 import Header from './components/Header';
 import Intro from './components/Intro';
 import Experience from './components/Experience';
-import Projects from './components/Projects';
 import Skills from './components/Skills';
+import Projects from './components/Projects';
+import Graduation from './components/Graduation';
 import Footer from './components/Footer';
 
 import styled from 'styled-components';
@@ -19,6 +20,7 @@ function App() {
       <Experience />
       <Skills />
       <Projects />
+      <Graduation />
       <Footer />
     </AppContainer>
   )

@@ -43,26 +43,19 @@ const Project = styled.div`
     }
 `
 
+const ProjectsTitle = styled.h2`
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    color: var(--tertiary-text-color);
+    text-transform: uppercase;
+`
+
 function Projects() {
     return (
         <ProjectsContainer>
             <ProjectsMain>
-                <Project>
-                    <ProjectImage/>
-                    <div>
-                        <ProjectDescription />
-                        <ProjectButtons/>
-                    </div>
-                </Project>
-
-                <Project>
-                    <ProjectImage/>
-                    <div>
-                        <ProjectDescription />
-                        <ProjectButtons/>
-                    </div>
-                </Project>
-
+                <ProjectsTitle>Meus últimos projetos</ProjectsTitle>
                 <Project>
                     <ProjectImage/>
                     <div>

@@ -21,10 +21,6 @@ const SkillsTitle = styled.h2`
     justify-content: center;
     color: var(--tertiary-text-color);
     text-transform: uppercase;
-
-    @media (max-width: 800px) {
-        
-    }
 `
 
 function Skills() {
