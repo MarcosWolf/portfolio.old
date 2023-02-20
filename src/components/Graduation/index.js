@@ -29,8 +29,10 @@ const GraduationSubtitle = styled.h1`
     text-transform: uppercase;
     word-break: break-all;
     max-width: 5ch;
+    content: "Alo";
 
     @media (max-width: 1000px) {
+        content: "Formação";
         color: var(--main-bg-color);
         max-width: initial !important;
         font-size: 3rem;

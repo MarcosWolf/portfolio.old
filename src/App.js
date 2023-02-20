@@ -3,6 +3,7 @@ import Intro from './components/Intro';
 import Experience from './components/Experience';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
+import Arts from './components/Arts';
 import Graduation from './components/Graduation';
 import Footer from './components/Footer';
 
@@ -20,6 +21,7 @@ function App() {
       <Experience />
       <Skills />
       <Projects />
+      <Arts />
       <Graduation />
       <Footer />
     </AppContainer>
