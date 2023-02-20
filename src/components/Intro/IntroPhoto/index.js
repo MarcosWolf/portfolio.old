@@ -1,5 +1,4 @@
 import photo from '../../../img/marcos.jpg';
-import styled from 'styled-components';
 
 function IntroPhoto() {
     return (

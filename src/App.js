@@ -1,5 +1,6 @@
 import Header from './components/Header';
 import Intro from './components/Intro';
+import Experience from './components/Experience';
 
 import styled from 'styled-components';
 
@@ -12,6 +13,7 @@ function App() {
     <AppContainer>
       <Header />
       <Intro />
+      <Experience />
     </AppContainer>
   )
 }

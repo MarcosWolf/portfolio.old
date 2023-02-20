@@ -29,17 +29,14 @@ const LinkMenu = styled.a`
 
 function HeaderMenu() {
     return (
-        <nav>
-            <NavMenu>
-                <li><LinkMenu href='#experiencia'>Experiência</LinkMenu></li>
-                <li><LinkMenu href='#projetos'>Projetos</LinkMenu></li>
-                <li><LinkMenu href='#formacao'>Formação</LinkMenu></li>
-                <li><LinkMenu href='#contato'>Contato</LinkMenu></li>
-                <li><LinkMenu href='https://github.com/MarcosWolf/' target='_blank'> <img src={iconGithub}></img> </LinkMenu></li>
-                <li><LinkMenu href='https://linkedin.com/in/marcoswolf/' target='_blank'> <img src={iconLinkedin}></img> </LinkMenu></li>
-  
-            </NavMenu>
-        </nav>
+        <NavMenu>
+            <li><LinkMenu href='#experiencia'>Experiência</LinkMenu></li>
+            <li><LinkMenu href='#projetos'>Projetos</LinkMenu></li>
+            <li><LinkMenu href='#formacao'>Formação</LinkMenu></li>
+            <li><LinkMenu href='#contato'>Contato</LinkMenu></li>
+            <li><LinkMenu href='https://github.com/MarcosWolf/' target='_blank'> <img src={iconGithub}></img> </LinkMenu></li>
+            <li><LinkMenu href='https://linkedin.com/in/marcoswolf/' target='_blank'> <img src={iconLinkedin}></img> </LinkMenu></li>
+        </NavMenu>
     )
 };
 
