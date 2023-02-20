@@ -69,10 +69,6 @@ const TimelineSkills = styled.ul`
     }
 `
 
-const TimelineSkill = styled.li`
-
-`
-
 function ExperienceTimeline() {
     return (
         <div>
