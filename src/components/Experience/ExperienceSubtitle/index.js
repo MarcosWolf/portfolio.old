@@ -8,7 +8,7 @@ const Subtitle = styled.h2`
     word-break: break-all;
     max-width: 5ch;
 
-    @media (max-width: 800px) {
+    @media (max-width: 1000px) {
         color: var(--primary-text-color);
         max-width: initial !important;
         font-size: 3rem;

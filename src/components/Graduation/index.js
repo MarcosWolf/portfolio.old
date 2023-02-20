@@ -15,17 +15,23 @@ const GraduationMain = styled.div`
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 100px;
+
+    @media (max-width: 1000px) {
+        grid-template-columns: 1fr;
+        padding: 60px 20px;
+        gap: 40px;
+    }
 `
 const GraduationSubtitle = styled.h1`
     font-size: 8rem;
     line-height: 1;
-    color: var(--main-subtitle-color);
+    color: var(--primary-text-color);
     text-transform: uppercase;
     word-break: break-all;
     max-width: 5ch;
 
-    @media (max-width: 800px) {
-        color: var(--primary-text-color);
+    @media (max-width: 1000px) {
+        color: var(--main-bg-color);
         max-width: initial !important;
         font-size: 3rem;
         text-transform: capitalize;
@@ -38,6 +44,10 @@ const GraduationDescription = styled.p`
     max-width: 40ch;
     margin-bottom: 60px;
     color: var(--tertiary-text-color);
+
+    @media (max-width: 1000px) {
+        font-size: 1.25rem;
+    }
 `
 
 function Graduation() {

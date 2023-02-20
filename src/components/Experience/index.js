@@ -17,7 +17,7 @@ const ExperienceMain = styled.div`
     grid-template-columns: 1fr 2fr;
     gap: 100px;
 
-    @media (max-width: 800px) {
+    @media (max-width: 1000px) {
         grid-template-columns: 1fr;
         gap: 40px;
     }
