@@ -1,4 +1,5 @@
 # Meu portfólio
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcosWolf/portfolio/blob/main/LICENCE)
 
 https://marcoswolf.com.br
 
