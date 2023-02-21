@@ -25,7 +25,7 @@ const SkillsTitle = styled.h2`
 
 function Skills() {
     return (
-        <SkillsContainer>
+        <SkillsContainer id="skills">
             <SkillsMain>
                 <SkillsTitle>Tecnologias que utilizo</SkillsTitle>
                 <SkillsCards />

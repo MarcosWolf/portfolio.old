@@ -53,7 +53,7 @@ const ProjectsTitle = styled.h2`
 
 function Projects() {
     return (
-        <ProjectsContainer>
+        <ProjectsContainer id="projects">
             <ProjectsMain>
                 <ProjectsTitle>Meus últimos projetos</ProjectsTitle>
                 <Project>

@@ -54,7 +54,7 @@ const GraduationDescription = styled.p`
 
 function Graduation() {
     return (
-        <GraduationContainer>
+        <GraduationContainer id="graduation">
             <GraduationMain>
                 <GraduationSubtitle>Formação</GraduationSubtitle>
                 <div>                    

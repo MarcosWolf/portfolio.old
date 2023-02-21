@@ -49,7 +49,7 @@ const FooterCopy = styled.p`
 
 function Footer() {
     return (
-        <FooterContainer>
+        <FooterContainer id="contact">
             <FooterMain>
                 <FooterDescription>Estou disponível para participar de novos projetos no momento. Sinta-se a vontade para entrar em contato.</FooterDescription>
                 <FooterContact>

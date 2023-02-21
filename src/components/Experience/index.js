@@ -25,7 +25,7 @@ const ExperienceMain = styled.div`
 
 function Experience() {
     return (
-        <ExperienceContainer>
+        <ExperienceContainer id="experience">
             <ExperienceMain>
                 <ExperienceSubtitle />
                     <div>

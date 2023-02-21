@@ -7,6 +7,8 @@ import Arts from './components/Arts';
 import Graduation from './components/Graduation';
 import Footer from './components/Footer';
 
+import { BrowserRouter } from 'react-router-dom';
+
 import styled from 'styled-components';
 
 const AppContainer = styled.div`
@@ -15,7 +17,7 @@ const AppContainer = styled.div`
 
 function App() {
   return (
-    <AppContainer>
+    <BrowserRouter>
       <Header />
       <Intro />
       <Experience />
@@ -24,7 +26,7 @@ function App() {
       <Arts />
       <Graduation />
       <Footer />
-    </AppContainer>
+    </BrowserRouter>
   )
 }
 

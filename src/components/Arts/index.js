@@ -2,14 +2,14 @@ import styled from 'styled-components';
 import { useState, useEffect, useRef} from 'react';
 import { motion } from 'framer-motion';
 
-import image1 from '../../img/art1.png';
-import image2 from '../../img/art2.png';
-import image3 from '../../img/art3.png';
-import image4 from '../../img/art4.png';
-import image5 from '../../img/art5.png';
-import image6 from '../../img/art6.png';
-import image7 from '../../img/art7.png';
-import image8 from '../../img/art8.png';
+import image1 from '../../img/art1.jpg';
+import image2 from '../../img/art2.jpg';
+import image3 from '../../img/art3.jpg';
+import image4 from '../../img/art4.jpg';
+import image5 from '../../img/art5.jpg';
+import image6 from '../../img/art6.jpg';
+import image7 from '../../img/art7.jpg';
+import image8 from '../../img/art8.jpg';
 
 const images = [image1, image2, image3, image4, image5, image6, image7, image8];
 

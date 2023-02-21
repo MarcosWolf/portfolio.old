@@ -1,6 +1,10 @@
 import iconGithub from '../../../img/github.svg';
 import iconLinkedin from '../../../img/linkedin.svg';
+
+import { HashLink as Link } from 'react-router-hash-link';
+
 import styled from 'styled-components';
+
 
 const NavMenu = styled.ul`
     display: flex;
@@ -10,7 +14,7 @@ const NavMenu = styled.ul`
     text-decoration: none;
 `;
 
-const LinkMenu = styled.a`
+const LinkMenu = styled.li`
     font-size: 1.125rem;
     line-height: 1.3;
     padding: 10px 20px;
@@ -24,18 +28,21 @@ const LinkMenu = styled.a`
         border-radius: 4px;
         transition: 0.3s;
     }
-
 `;
+
+const StyledLink = styled(Link)`
+    text-decoration: none;
+    color: var(--primary-text-color);
+`
 
 function HeaderMenu() {
     return (
         <NavMenu>
-            <li><LinkMenu href='#experiencia'>Experiência</LinkMenu></li>
-            <li><LinkMenu href='#projetos'>Projetos</LinkMenu></li>
-            <li><LinkMenu href='#formacao'>Formação</LinkMenu></li>
-            <li><LinkMenu href='#contato'>Contato</LinkMenu></li>
-            <li><LinkMenu href='https://github.com/MarcosWolf/' target='_blank'> <img src={iconGithub}></img> </LinkMenu></li>
-            <li><LinkMenu href='https://linkedin.com/in/marcoswolf/' target='_blank'> <img src={iconLinkedin}></img> </LinkMenu></li>
+            <LinkMenu><StyledLink to="#experience">Experiência</StyledLink></LinkMenu>
+            <LinkMenu><StyledLink to="#skills">Tecnologias</StyledLink></LinkMenu>
+            <LinkMenu><StyledLink to="#projects">Projetos</StyledLink></LinkMenu>
+            <LinkMenu><StyledLink to="#graduation">Formação</StyledLink></LinkMenu>
+            <LinkMenu><StyledLink to="#contact">Contato</StyledLink></LinkMenu>
         </NavMenu>
     )
 };
