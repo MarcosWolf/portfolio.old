@@ -6,7 +6,7 @@ https://marcoswolf.com.br
 Este é o meu portfólio, consiste em apresentar o meu perfil profissional, minhas qualificações e meus trabalhos mais recentes.
 
 ## Layout Web
-![layout_web01](https://user-images.githubusercontent.com/26293082/220230016-70e02e1b-379a-4d3d-9e26-2516ab08fe8a.jpg)
+![layout_web01](https://user-images.githubusercontent.com/26293082/220405006-fc35c64d-7dbb-4a20-a4f2-46da68b1b8cf.png)
 ![layout_web02](https://user-images.githubusercontent.com/26293082/220230040-304a52d3-8bee-4110-a196-1f18e4319fe3.jpg)
 ![layout_web03](https://user-images.githubusercontent.com/26293082/220230105-7885e34a-3ad2-40ef-9589-df493557a6db.jpg)
 ![layout_web04](https://user-images.githubusercontent.com/26293082/220230116-a9c99336-3893-4abc-8934-26a62860f102.jpg)
