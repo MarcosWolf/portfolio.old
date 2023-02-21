@@ -59,6 +59,7 @@ const TimelineSkills = styled.ul`
     flex-wrap: wrap;
     gap: 10px;
     align-content: start;
+    transition: transform 330ms ease-in-out;
 
     & li {
         font-size: .875rem;
@@ -66,6 +67,13 @@ const TimelineSkills = styled.ul`
         background: var(--main-bg-color);
         border-radius: 4px;
         padding: 5px 10px;
+    }
+
+    & li:hover {
+        background: var(--primary-text-color);
+        color: #FFF;
+        transition: 0.3s;
+        cursor: pointer;
     }
 `
 

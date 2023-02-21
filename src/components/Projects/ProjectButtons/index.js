@@ -24,6 +24,12 @@ const ProjectDemo = styled.a`
     padding: 15px 15px;
     color: var(--main-bg-color);
     border-radius: 4px;
+
+    &:hover {
+        background: #ff5fca;
+        cursor: pointer;        
+        transition: 0.3s;
+    }
 `
 
 const ProjectCode = styled.a`
@@ -36,6 +42,12 @@ const ProjectCode = styled.a`
 
     & img {
         padding: 0 10px;
+    }
+
+    &:hover {
+        cursor: pointer;
+        background: #000000;
+        transition: 0.3s;
     }
 `
 
