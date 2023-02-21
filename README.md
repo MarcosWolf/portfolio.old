@@ -6,14 +6,13 @@ https://marcoswolf.com.br
 Este é o meu portfólio, consiste em apresentar o meu perfil profissional, minhas qualificações e meus trabalhos mais recentes.
 
 ## Layout Web
-![layout_web01](https://user-images.githubusercontent.com/26293082/220405006-fc35c64d-7dbb-4a20-a4f2-46da68b1b8cf.png)
-![layout_web02](https://user-images.githubusercontent.com/26293082/220230040-304a52d3-8bee-4110-a196-1f18e4319fe3.jpg)
-![layout_web03](https://user-images.githubusercontent.com/26293082/220230105-7885e34a-3ad2-40ef-9589-df493557a6db.jpg)
-![layout_web04](https://user-images.githubusercontent.com/26293082/220230116-a9c99336-3893-4abc-8934-26a62860f102.jpg)
-![layout_web05](https://user-images.githubusercontent.com/26293082/220230120-ecc69f01-7395-4ac8-ab3b-a4e6cbeae60c.jpg)
-![layout_web06](https://user-images.githubusercontent.com/26293082/220230126-9c8c8ede-9110-42d7-b424-b46a068083ae.jpg)
-![layout_web07](https://user-images.githubusercontent.com/26293082/220230134-49a58aa1-1efc-4548-8d53-9d611d9fb946.jpg)
-
+![image](https://user-images.githubusercontent.com/26293082/220420655-4e7cbef2-7496-48e5-a376-2fda9ae701c2.png)
+![image](https://user-images.githubusercontent.com/26293082/220421017-e4e048bc-f307-4b7d-8ed2-b9a929470ca6.png)
+![image](https://user-images.githubusercontent.com/26293082/220421155-7877d74d-206f-4d1e-8079-ddb029c811ad.png)
+![image](https://user-images.githubusercontent.com/26293082/220421306-e4a0ba12-add1-4cae-8634-59211466744e.png)
+![image](https://user-images.githubusercontent.com/26293082/220421472-b0f7368f-9ecf-47d5-8168-34d7e9a5192c.png)
+![image](https://user-images.githubusercontent.com/26293082/220421714-85225ab1-84dc-413f-aab0-2419f86711fa.png)
+![image](https://user-images.githubusercontent.com/26293082/220421861-a74a67bf-426b-4bc1-a838-f53dbf578cd7.png)
 
 # Tecnologias Utilizadas
 ## Front End
