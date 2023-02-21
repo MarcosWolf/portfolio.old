@@ -43,6 +43,8 @@ function HeaderMenu() {
             <LinkMenu><StyledLink to="#projects">Projetos</StyledLink></LinkMenu>
             <LinkMenu><StyledLink to="#graduation">Formação</StyledLink></LinkMenu>
             <LinkMenu><StyledLink to="#contact">Contato</StyledLink></LinkMenu>
+            <LinkMenu><a href="https://github.com/MarcosWolf/" target="_blank"><img src={iconGithub}></img></a></LinkMenu>
+            <LinkMenu><a href="https://www.linkedin.com/in/marcoswolf/" target="_blank"><img src={iconLinkedin}></img></a></LinkMenu>
         </NavMenu>
     )
 };

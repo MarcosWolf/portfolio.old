@@ -20,7 +20,7 @@ const HeaderMain = styled.div`
         gap: 40px;
         padding: 20px;
         
-        & a {
+        & li {
             background: var(--main-hover-color);
             border-radius: 4px;
         }
