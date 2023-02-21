@@ -20,9 +20,6 @@ Este é o meu portfólio, consiste em apresentar o meu perfil profissional, minh
 - HTML / CSS / JS
 - ReactJS
 
-## Back End
-- Futuramente pretendo implementar NodeJS
-
 # Como executar o projeto
 
 ```bash
