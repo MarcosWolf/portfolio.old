@@ -1,8 +1,6 @@
 # Meu portfólio
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcosWolf/portfolio/blob/main/LICENCE)
 
-https://marcoswolf.com.br
-
 Este é o meu portfólio, consiste em apresentar o meu perfil profissional, minhas qualificações e meus trabalhos mais recentes.
 
 ## Layout Web
